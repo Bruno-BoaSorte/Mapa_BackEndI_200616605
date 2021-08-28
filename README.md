@@ -17,5 +17,5 @@
 ![](img/site_bolos.png)
 
 
-git clone https://github.com/AlexandreQuality/20008955-5_AlexandreMoutinho
+
 
